@@ -1,7 +1,7 @@
 # CPNT201-a4
 
 ## Lucas
-[]()
+[782257f](https://github.com/lucas-cq/cpnt201-a4/commit/782257ff27cb4f02c349dd5d5dce35a52f349865) - added team members in readme
 []()
 []()
 []()
