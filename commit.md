@@ -2,7 +2,7 @@
 
 ## Lucas
 [782257f](https://github.com/lucas-cq/cpnt201-a4/commit/782257ff27cb4f02c349dd5d5dce35a52f349865) - added team members in readme
-[]()
+[55e9537](https://github.com/lucas-cq/cpnt201-a4/commit/55e953777118bd06015c897e26b08981589e724e) - added rules in md
 []()
 []()
 
