@@ -6,9 +6,9 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
-- Maintainer: Lucas
-- Collaborator: Icah
-- Contributor: Evan
+- Maintainer: [Lucas](https://github.com/lucas-cq/cpnt201-a4)
+- Collaborator: [Icah](https://github.com/Icahpv/cpnt201-a4)
+- Contributor: [Evan](https://github.com/Rankorrdagod/cpnt201-a4-1)
 
 ## Rules
 
