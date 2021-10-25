@@ -4,7 +4,7 @@
 [782257f](https://github.com/lucas-cq/cpnt201-a4/commit/782257ff27cb4f02c349dd5d5dce35a52f349865) - added team members in readme
 [55e9537](https://github.com/lucas-cq/cpnt201-a4/commit/55e953777118bd06015c897e26b08981589e724e) - added rules in md
 [2147206](https://github.com/lucas-cq/cpnt201-a4/commit/2147206a8a054a9cbdb4386e5bfe070b1962ae01) - added new section in html
-[d17a58e](https://github.com/lucas-cq/cpnt201-a4/commit/d17a58e808b68bdb8d869af5e44aa00265bca00e) - merge conflict
+[dc03e3d](https://github.com/lucas-cq/cpnt201-a4/commit/dc03e3df4cafb20301b017484762723425c8ce3a) - merge conflict
 
 ## Evan
 [0f2bb0](https://github.com/lucas-cq/cpnt201-a4/commit/0f2bb40b7082ebaaa27c14d70e12d668502e7fa3)
