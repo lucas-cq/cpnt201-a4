@@ -7,10 +7,10 @@
 [d17a58e](https://github.com/lucas-cq/cpnt201-a4/commit/d17a58e808b68bdb8d869af5e44aa00265bca00e) - merge conflict
 
 ## Evan
-[]()
-[]()
-[]()
-[]()
+[0f2bb0](https://github.com/lucas-cq/cpnt201-a4/commit/0f2bb40b7082ebaaa27c14d70e12d668502e7fa3)
+[43d5f81](https://github.com/lucas-cq/cpnt201-a4/commit/43d5f81b70d5c3c93f87f3a5f85bb1abbd29aa4c)
+[50e0c67](https://github.com/lucas-cq/cpnt201-a4/commit/50e0c672b23a2aeeb26b759b521da8d4586013b4)
+[49ef894](https://github.com/lucas-cq/cpnt201-a4/commit/49ef894884cb03428dd7c4264919c9a58976f4fc)
 
 ## Icah
 [eb6f1fb](https://github.com/Icahpv/cpnt201-a4-1/commit/eb6f1fb0830762e4c0f59fb731302d1cc87f335c) - fixed spelling errors 
